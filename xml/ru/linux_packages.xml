@@ -7,7 +7,7 @@
 <article name="nginx: пакеты для Linux"
          link="/ru/linux_packages.html"
          lang="ru"
-         rev="106">
+         rev="108">
 
 <section name="Поддерживаемые дистрибутивы и версии" id="distributions">
 
@@ -33,6 +33,11 @@
 
 <tr>
 <td width="30%">9.x</td>
+<td>x86_64, aarch64/arm64</td>
+</tr>
+
+<tr>
+<td width="30%">10.x</td>
 <td>x86_64, aarch64/arm64</td>
 </tr>
 
@@ -73,22 +78,12 @@
 </tr>
 
 <tr>
-<td width="30%">20.04 “focal”</td>
-<td>x86_64, aarch64/arm64</td>
-</tr>
-
-<tr>
 <td width="30%">22.04 “jammy”</td>
 <td>x86_64, aarch64/arm64</td>
 </tr>
 
 <tr>
 <td width="30%">24.04 “noble”</td>
-<td>x86_64, aarch64/arm64</td>
-</tr>
-
-<tr>
-<td width="30%">24.10 “oracular”</td>
 <td>x86_64, aarch64/arm64</td>
 </tr>
 
@@ -129,11 +124,6 @@
 </tr>
 
 <tr>
-<td width="30%">3.18</td>
-<td>x86_64, aarch64/arm64</td>
-</tr>
-
-<tr>
 <td width="30%">3.19</td>
 <td>x86_64, aarch64/arm64</td>
 </tr>
@@ -145,6 +135,11 @@
 
 <tr>
 <td width="30%">3.21</td>
+<td>x86_64, aarch64/arm64</td>
+</tr>
+
+<tr>
+<td width="30%">3.22</td>
 <td>x86_64, aarch64/arm64</td>
 </tr>
 
